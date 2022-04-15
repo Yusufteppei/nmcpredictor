@@ -8,6 +8,6 @@ HOW TO USE
 From the terminal run :
 
 $pip install streamlit
-$streamlit run predict.py
+$streamlit run frontend.py
 
 
